@@ -14,12 +14,12 @@
 - 해당 Repository를 본인의 계정으로 Fork한 후 각자의 아이디로 Branch를 생성하고, 주마다 생성되는 본인이름.md에 공부 내용을 작성한다.
   - (브랜치 이름과 source를 꼭 확인해주세요!)
 
-<img src="https://github.com/FE-Study-Journey/Core-JS-Study/assets/141125424/0426a700-ef3e-42e1-a8c8-a6bbf57653b2"  width=60% /> <br/>
+<img src="https://github.com/FE-Study-Journey/Core-JS-Study/assets/141125424/0426a700-ef3e-42e1-a8c8-a6bbf57653b2"  width=60% /> <hr/>
 
 - 정리가 모두 완료되면 본인의 원격 저장소에서 [Core-JS-Study](https://github.com/FE-Study-Journey/Core-JS-Study) 저장소의 `main branch`로 Pull Request를 보낸다.
   - (`스터디 저장소:main` ← `본인 원격 저장소:본인아이디`을 꼭 확인해주세요!)
 
-<img src="https://github.com/FE-Study-Journey/Core-JS-Study/assets/141125424/2acfc83c-3b58-4dfc-a316-ccb9a62e9fea" /> <br/>
+<img src="https://github.com/FE-Study-Journey/Core-JS-Study/assets/141125424/2acfc83c-3b58-4dfc-a316-ccb9a62e9fea" /> <hr/>
 
 - PR Title은 `해당 목차 - 본인 이름`로 통일한다.
   - e.g. 3주차일 경우 `3장 this - 박지섭`
@@ -33,8 +33,8 @@
 
 ## 🚀 과제 진행도
 
-|  　　  　Week<br>이름　                 | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   |
-| --------------------------------------- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  　     　\ Week<br>이름 \              | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   |
+| -------------------------------------- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [박지섭](https://github.com/HarrySeop)  |     |     |     |     |     |     |     |     |
 | [김동찬](https://github.com/kdc9050)    |     |     |     |     |     |     |     |     |
 | [김주하](https://github.com/laketree2)  |     |     |     |     |     |     |     |     |
