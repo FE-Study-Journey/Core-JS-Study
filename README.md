@@ -35,12 +35,12 @@
 
 |  　　  　Week<br>이름　                 | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   |
 | --------------------------------------- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [박지섭](https://github.com/HarrySeop)  | ✅ | ✅ |     |     |     |     |     |     |
-| [김동찬](https://github.com/kdc9050)    | ✅ | ✅ |     |     |     |     |     |     |
-| [김주하](https://github.com/laketree2)  | ✅ | ✅ |     |     |     |     |     |     |
-| [이만재](https://github.com/leemanjae02)| ✅ | ✅ |     |     |     |     |     |     |
-| [이윤아](https://github.com/Profitah)   | ✅ | ✅ |     |     |     |     |     |     |
-| [이윤하](https://github.com/labyrinth30)| ✅ | ✅ |     |     |     |     |     |     |
+| [박지섭](https://github.com/HarrySeop)  | ✅ | ✅ | ✅ |     |     |     |     |     |
+| [김동찬](https://github.com/kdc9050)    | ✅ | ✅ | ✅ |     |     |     |     |     |
+| [김주하](https://github.com/laketree2)  | ✅ | ✅ | ✅ |     |     |     |     |     |
+| [이만재](https://github.com/leemanjae02)| ✅ | ✅ | ✅ |     |     |     |     |     |
+| [이윤아](https://github.com/Profitah)   | ✅ | ✅ | ✅ |     |     |     |     |     |
+| [이윤하](https://github.com/labyrinth30)| ✅ | ✅ | ✅ |     |     |     |     |     |
 
 
 ✅ : 정상 제출 <br/>
